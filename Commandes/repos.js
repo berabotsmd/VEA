@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔎", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://api.github.com/repos/Mdee018/VEA';
-  const img = 'https://telegra.ph/file/e883c3cc22b0ded5e380e.jpg';
+  const img = 'https://i.ibb.co/QXym14d/IMG-20240911-WA0078-1.jpg';
 
 
   try {
