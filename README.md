@@ -1,20 +1,20 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ -VEA-★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MDEE;RELEASED+DATE+11%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ -𝐕𝐄𝐀 𝐁𝐎𝐓-★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MDEE;RELEASED+DATE+11%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> <a>
 <p align="center">  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=VEA" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐕𝐄𝐀 𝐁𝐎𝐓" alt="Typing SVG"/></a>
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q">
     <img alt="wasi" height="400" src="https://i.ibb.co/QXym14d/IMG-20240911-WA0078-1.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">VEA</h1>
+   <h1 align="center">𝐕𝐄𝐀 𝐁𝐎𝐓</h1>
   </a>
     <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
@@ -43,7 +43,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a></p>
 - <br>
-<a href='https://zzni-ec6c49062fd5.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://ibraah-adams-7ea5dbe9c84b.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 - 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -51,7 +51,7 @@
 </p>
 
 - <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Mdee018/VEA
-&template=https://github.com/Mdee018/VEA"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
+&template=https://github.com/Mdee018/VEA"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=𝐕𝐄𝐀 𝐁𝐎𝐓" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -61,8 +61,8 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Join my channel for updates
-<a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -115,7 +115,7 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to `VEA`are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to 𝐕𝐄𝐀 𝐁𝐎𝐓 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## License
@@ -123,6 +123,6 @@ Contributions to `VEA`are welcome! If you have ideas for new features, improveme
 The VEA is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *VEA*  to enhance your Whatsapp more enjoyable
-☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 VEA 
+☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐕𝐄𝐀 𝐁𝐎𝐓 
 .
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
